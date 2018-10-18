@@ -1,0 +1,27 @@
+{
+  "name": "bitcoinnova-nodes-json",
+  "version": "0.0.1",
+  "description": "json list of public daemons",
+  "main": "bitcoinnova-nodes.json",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/checkForDuplicates.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitcoinNova/bitcoinnova-nodes-json.git"
+  },
+  "keywords": [
+    "bitcoinnova",
+    "public",
+    "nodes"
+  ],
+  "author": "The BitcoinNova Developers",
+  "license": "MIT-License",
+  "bugs": {
+    "url": "https://github.com/BitcoinNova/bitcoinnova-nodes-json/issues"
+  },
+  "homepage": "https://github.com/BitcoinNova/bitcoinnova-nodes-json#readme"
+}
