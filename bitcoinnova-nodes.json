@@ -21,7 +21,7 @@
         {
             "name": "btnnode.gonspool.com",
             "url": "btnnode.gonspool.com",
-            "port": 80,
+            "port": 45223,
             "ssl": false
         },
         {
