@@ -7,32 +7,20 @@
             "ssl": false
         },
         {
+            "name": "seed-2.bitcoinnova.org",
+            "url": "37.59.108.203",
+            "port": 45223,
+            "ssl": false
+        },
+        {
             "name": "superblockchain.con-ip.com",
             "url": "superblockchain.con-ip.com",
             "port": 45223,
             "ssl": false
         },
         {
-            "name": "cryptonote.bobpool.cc",
-            "url": "cryptonote.bobpool.cc",
-            "port": 45223,
-            "ssl": false
-        },
-        {
             "name": "btnnode.gonspool.com",
             "url": "btnnode.gonspool.com",
-            "port": 45223,
-            "ssl": false
-        },
-        {
-            "name": "youpool.io",
-            "url": "btn.youpool.io",
-            "port": 45223,
-            "ssl": false
-        },
-        {
-            "name": "seed-2.bitcoinnova.org",
-            "url": "37.59.108.203",
             "port": 45223,
             "ssl": false
         }
