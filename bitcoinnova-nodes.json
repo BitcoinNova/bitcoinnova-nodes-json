@@ -23,6 +23,12 @@
             "url": "btnnode.gonspool.com",
             "port": 45223,
             "ssl": false
+        },
+        {
+            "name": "node0.ddns.net (Raspberry pi - test)",
+            "url": "node0.ddns.net",
+            "port": 45223,
+            "ssl": false
         }
     ]
 }
