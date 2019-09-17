@@ -19,6 +19,12 @@
             "ssl": false
         },
         {
+            "name": "ecologicalbtn.con-ip.com",
+            "url": "ecologicalbtn.con-ip.com",
+            "port": 44223,
+            "ssl": false
+        },
+        {
             "name": "btnnode.gonspool.com",
             "url": "btnnode.gonspool.com",
             "port": 45223,
