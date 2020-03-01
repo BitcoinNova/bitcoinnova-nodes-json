@@ -1,14 +1,14 @@
 {
     "nodes" : [
         {
-            "name": "pool.bitcoinnova.org",
-            "url": "pool.bitcoinnova.org",
+            "name": "mn1.bitcoinnova.org",
+            "url": "mn1.bitcoinnova.org",
             "port": 45223,
             "ssl": false
         },
         {
-            "name": "seed-2.bitcoinnova.org",
-            "url": "37.59.108.203",
+            "name": "mn2.bitcoinnova.org",
+            "url": "mn2.bitcoinnova.org",
             "port": 45223,
             "ssl": false
         },
@@ -22,6 +22,24 @@
             "name": "ecologicalbtn.con-ip.com",
             "url": "ecologicalbtn.con-ip.com",
             "port": 44223,
+            "ssl": false
+        },
+        {
+            "name": "mn7.bitcoinnova.org",
+            "url": "mn7.bitcoinnova.org",
+            "port": 45225,
+            "ssl": false
+        },
+        {
+            "name": "mn8.bitcoinnova.org",
+            "url": "mn8.bitcoinnova.org",
+            "port": 45223,
+            "ssl": false
+        },
+        {
+            "name": "mn9.bitcoinnova.org",
+            "url": "mn9.bitcoinnova.org",
+            "port": 45223,
             "ssl": false
         },
         {
