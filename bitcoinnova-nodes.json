@@ -19,21 +19,9 @@
             "ssl": false
         },
         {
-            "name": "ecologicalbtn.con-ip.com",
-            "url": "ecologicalbtn.con-ip.com",
-            "port": 44223,
-            "ssl": false
-        },
-        {
             "name": "mn7.bitcoinnova.org",
             "url": "mn7.bitcoinnova.org",
             "port": 45225,
-            "ssl": false
-        },
-        {
-            "name": "mn8.bitcoinnova.org",
-            "url": "mn8.bitcoinnova.org",
-            "port": 45223,
             "ssl": false
         },
         {
